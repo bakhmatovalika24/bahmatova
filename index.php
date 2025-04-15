@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Главная</title>
-<link rel="icon" type="image/x-icon" href="/assets/images/favicon.png">
+<link rel="icon" type="image/x-icon" href="/assets/images/favicon/ico.png">
 
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
